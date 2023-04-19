@@ -1,2 +1,3 @@
-# GDCA
-# GDC_methods
+# Applying Gradient Descent Approach for Effective Clustering
+
+The paper is under review!
